@@ -4,10 +4,10 @@
 
 적용전:
 
-![before](https://raw.github.com/npcode/follower-to-status/blob/master/before.png)
+![before](https://raw.github.com/npcode/reason-after-followers/master/before.png)
 
 적용후:
 
-![after](https://raw.github.com/npcode/follower-to-status/blob/master/after.png)
+![after](https://raw.github.com/npcode/reason-after-followers/master/after.png)
 
 대놓고 말해주니까 더 이상 찝찝하지 않게 되었다.
